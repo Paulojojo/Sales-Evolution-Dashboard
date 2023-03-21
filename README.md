@@ -1,4 +1,7 @@
 # Sales Evolution Dashboard
+
+<img src="Captura_app_ventas.png" width="60%" style="display: block; margin: auto;" />
+
 Este es un dashboard creado con la ayuda de ChatGPT. El dataset para este dashboard es uno fictio creado al azar pero que trata de emular el formato de tablas
 que uno podría encontrarse en el mundo real.
 
